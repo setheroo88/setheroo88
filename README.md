@@ -1,0 +1,1 @@
+Welcome to my profile, I am Seth Thompson with the Internal Customer Operations of Excellence Team. Our team excels at creating custom automations and websites written in Django. If you ever feel you need assistance, please do not hesitate to reach out to our team for help, that is what we are here for :)
